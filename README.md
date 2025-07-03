@@ -8,7 +8,7 @@ Add this to your ESPHome configuration:
 
 ```yaml
 external_components:
-  - source: github://arro1972/esphome-rs485-sniffer
+  - source: github://arro1972/airco_rs485_sniffer
     components: [rs485_sniffer]
 
 uart:
